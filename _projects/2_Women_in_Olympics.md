@@ -12,6 +12,7 @@ custom_js:
 
 
 # Women in Olympics
+Author: Rhuta Patki<br>
 
 ## Introduction:
 
